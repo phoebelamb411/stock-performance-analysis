@@ -42,7 +42,7 @@ It covers the full workflow: ingesting data into a SQL database, exploratory ana
 
 ## Results & Analysis
 
-Here's a walkthrough of what I found at each stage — the kind of quick read I'd want if I was looking at someone else's project.
+Here's a walkthrough of what I found at each stage
 
 ### Stock Performance
 
